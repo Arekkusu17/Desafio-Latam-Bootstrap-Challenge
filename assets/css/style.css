@@ -7,7 +7,47 @@ body {
   width: 86px;
 }
 
+.product-img {
+  width: 290px;
+  height: 190px;
+}
+
 .navbar-collapse {
   display: flex;
   justify-content: end;
+}
+
+.product-title {
+  font-weight: 300;
+  font-size: 20px;
+  color: #212529;
+}
+
+.gray-text {
+  font-weight: 300;
+  font-size: 16px;
+  color: #707070;
+}
+
+.address {
+  font-size: 13px;
+}
+
+.new-price {
+  font-size: 20px;
+  font-weight: 500;
+  color: #28a745;
+}
+
+.form-title {
+  color: white;
+  font-size: 21px;
+}
+
+.bg-custom {
+  background-color: #28a745;
+}
+
+.card-body {
+  border: 0.5px solid #dddddd;
 }
