@@ -1,20 +1,11 @@
 body {
   font-family: "Roboto", sans-serif;
+  font-size: 16px;
 }
 
 .logo {
   height: 25px;
   width: 86px;
-}
-
-.product-img {
-  width: 290px;
-  height: 190px;
-}
-
-.navbar-collapse {
-  display: flex;
-  justify-content: end;
 }
 
 .product-title {
@@ -25,7 +16,6 @@ body {
 
 .gray-text {
   font-weight: 300;
-  font-size: 16px;
   color: #707070;
 }
 
