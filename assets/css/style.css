@@ -30,12 +30,7 @@ body {
 }
 
 .form-title {
-  color: white;
   font-size: 21px;
-}
-
-.bg-custom {
-  background-color: #28a745;
 }
 
 .card-body {
